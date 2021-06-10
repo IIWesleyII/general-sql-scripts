@@ -1,9 +1,5 @@
 /*
-*
-*	FINAL PROJECT FOR COMP 440 Thursday 7-9:45
-*	DUE 05/17/2021
-*	WESLEY SHAW 
-*
+*	Mock Schema for 'product tracking tool'
 */
 
 use db;
