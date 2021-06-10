@@ -3,7 +3,6 @@
 */
 
 use db;
-
 --
 DROP TABLE IF EXISTS user_story;
 DROP TABLE IF EXISTS feature;
@@ -11,7 +10,6 @@ DROP TABLE IF EXISTS bug;
 DROP TABLE IF EXISTS task;
 DROP TABLE IF EXISTS product;
 --
-
 ---------------------------------------------------------------------------------------------------------------------------------------------
 /*
 *	product table:  
